@@ -34,6 +34,7 @@ URLS = [
     'https://iptv-epg.org/files/epg-us.xml.gz', 
     'https://iptv-epg.org/files/epg-gb.xml.gz', 
     'https://iptv-epg.org/files/epg-ca.xml.gz', 
+    'https://iptv-epg.org/files/epg-mx.xml.gz', 
     'https://tvpass.org/epg.xml',
     'https://github.com/BuddyChewChew/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz',
