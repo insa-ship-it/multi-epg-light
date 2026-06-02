@@ -34,8 +34,7 @@ URLS = [
     'https://iptv-epg.org/files/epg-us.xml.gz', 
     'https://iptv-epg.org/files/epg-gb.xml.gz', 
     'https://iptv-epg.org/files/epg-ca.xml.gz', 
-    'https://iptv-epg.org/files/epg-mx.xml.gz', 
-    'https://tvpass.org/epg.xml',
+    'https://iptv-epg.org/files/epg-mx.xml.gz',
     'https://github.com/BuddyChewChew/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
@@ -45,8 +44,8 @@ URLS = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20260405&channel_id=464981',
     'https://github.com/insa-ship-it/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
-    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/us.xml.gz', 
-    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz' 
+    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz', 
+    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz', 
 ]
 
 def get_tvg_ids_from_remote_m3u():
