@@ -44,7 +44,7 @@ URLS = [
     'https://raw.githubusercontent.com/BuddyChewChew/dummy-epg-project/refs/heads/main/epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20260405&channel_id=464981',
-    'https://github.com/BuddyChewChew/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
+    'https://github.com/insa-ship-it/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
     'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml'
 ]
 
