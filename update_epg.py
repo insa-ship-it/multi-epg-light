@@ -40,6 +40,8 @@ URLS = [
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
     'https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
+    'https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/main/playlists/plex_gb.xml.gz', 
+    'https://github.com/BuddyChewChew/plex-alt-fast-channels/raw/refs/heads/main/playlists/plex_us.xml.gz', 
     'https://raw.githubusercontent.com/BuddyChewChew/dummy-epg-project/refs/heads/main/epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml',
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20260405&channel_id=464981',
