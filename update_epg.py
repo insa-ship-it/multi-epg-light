@@ -38,8 +38,7 @@ URLS = [
     'https://epg.pw/api/epg.xml?lang=en&timezone=VVMvRWFzdGVybg%3D%3D&date=20260405&channel_id=464981',
     'https://github.com/insa-ship-it/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/us.xml.gz', 
-    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz', 
-    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/.channels.json.gz',
+    'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz',
     'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4&type=m3u_plus', 
 ]
 
