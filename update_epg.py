@@ -28,6 +28,9 @@ URLS = [
     'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_WHALETVPLUS1.xml.gz', 
+    'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz', 
     'https://iptv-epg.org/files/epg-au.xml.gz', 
     'https://iptv-epg.org/files/epg-gb.xml.gz', 
     'https://iptv-epg.org/files/epg-mx.xml.gz', 
@@ -35,7 +38,6 @@ URLS = [
     'https://iptv-epg.org/files/epg-us.xml.gz', 
     'https://github.com/BuddyChewChew/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz',
-    'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
     'https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
     'https://raw.githubusercontent.com/BuddyChewChew/dummy-epg-project/refs/heads/main/epg.xml',
@@ -46,7 +48,7 @@ URLS = [
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/gb.xml.gz',
     'http://drewlive2423.duckdns.org:8045/DrewLive/DrewLive.xml.gz', 
     'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4&type=m3u_plus', 
-    'https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz', 
+    
 ]
 
 def get_tvg_ids_from_remote_m3u():
