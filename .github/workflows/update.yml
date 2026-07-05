@@ -2,7 +2,7 @@ name: Update Light EPG
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'  # Runs every 12 hours on the hour (00:00 and 12:00 UTC)
+    - cron: '0 0,4,8,12,16,20 * * *'  # Runs every 4 hours on the hour (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
   workflow_dispatch:        # Allows manual trigger
 
 permissions:
@@ -47,4 +47,4 @@ jobs:
           git commit --amend -m "Fresh EPG Update: $(date -u)" || git commit -m "Fresh EPG Update: $(date -u)"
           
           # Force push to overwrite the old file with the new one
-          git push --force
+          git push --force 
