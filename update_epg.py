@@ -47,6 +47,7 @@ URLS = [
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz', 
     'http://drewlive2423.duckdns.org:8045/DrewLive/DrewLive.xml.gz', 
+    'https://github.com/insa-ship-it/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml', 
     'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4&type=m3u_plus', 
     'https://github.com/insa-ship-it/app-m3u-generator/raw/refs/heads/main/playlists/tubi_epg.xml', 
     
