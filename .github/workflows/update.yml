@@ -2,7 +2,7 @@ name: Update Light EPG
 
 on:
   schedule:
-    - cron: '0 0,4,8,12,16,20 * * *'  # Runs every 4 hours on the hour (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
+    - cron: '0 */4 * * *'  # Runs every 4 hours on the hour (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
   workflow_dispatch:        # Allows manual trigger
 
 permissions:
