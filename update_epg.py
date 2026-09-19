@@ -125,6 +125,7 @@ URLS = [
     'https://github.com/insa-ship-it/tcl-playlist-generator/raw/refs/heads/main/tcl_epg.xml', 
     'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4&type=m3u_plus', 
     'https://github.com/insa-ship-it/app-m3u-generator/raw/refs/heads/main/playlists/tubi_epg.xml', 
+    'http://restream-live.realiptv.to:8080/xmltv.php?username=riptv1010&password=mpmoGhhOP8&type=m3u_plus', 
     
 ]
 
